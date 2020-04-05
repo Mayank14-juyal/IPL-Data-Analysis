@@ -1,6 +1,6 @@
 # IPL-Data-Analysis
 This project provides analysis of IPL(2008-2018) data using Python
-This project requrires Jupyter Notebook and Python installed in the system.
+This project requires Jupyter Notebook and Python installed in the system.
 Follwing libraries should be installed:
 1) numpy
 2) pandas
